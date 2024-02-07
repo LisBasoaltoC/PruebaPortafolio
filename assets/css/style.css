@@ -44,6 +44,10 @@ footer {
 	color: #707070;
 }
 
-
-
 /* Fin, By: Lisette BasCo-- */
+
+/* ADD cambio formato texto tarjet  By: Genesis Valdebenito*/
+p{
+	text-decoration: none;
+	color: #000;
+}
